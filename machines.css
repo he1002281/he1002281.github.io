@@ -1,0 +1,35 @@
+body{background-color: white}
+h1{text-align: center; color: #007D72; font-size: 50px}
+p{color: white; font-size: 30px}
+h2{background-color: grey; color: white; font-size: 40px}
+div{background-color: #007D72}
+a{color: #210149}
+button {
+  background-color: #007D72; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  display: inline;
+  font-style: italic;
+  border: 2px solid #007D72;
+}
+button:hover{
+  background-color: white;
+  color: #007D72;
+  border: 2px solid #007D72;
+}
+#small{
+  font-size: 20px;
+}
+#medium{
+  font-size: 30px;
+}
+#large{
+  font-size: 40px;
+}
+#xlarge{
+  font-size: 50px;
+}
