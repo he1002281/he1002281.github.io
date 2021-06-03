@@ -8,7 +8,7 @@ function pulley(){
   color()
 }
 function wheel(){
-  document.getElementById("home").innerHTML = '<h2>Wheel and axle</h2><p>A wheel is essentially a lever for rotational force with the wheel as the platform and the axle as the fulcrum.</p><p>Ideal mechanical advantage : (radius of wheel)/(radius of axle)</p><img src="http://www2.phy.ilstu.edu/pte/489.01content/simple_machines/simplemachineimages/wheel.gif" width=800px height=500px><p><a href="https://www.youtube.com/watch?v=ndT35aqDfAQ">Wheel and axle video</a></p><p></p>';
+  document.getElementById("home").innerHTML = '<h2>Wheel and axle</h2><p>A wheel is essentially a lever for rotational force with the wheel as the platform and the axle as the fulcrum.</p><p>Ideal mechanical advantage : (radius of wheel)/(radius of axle)</p><img src="https://lh3.googleusercontent.com/proxy/sKhZo52EpzKk6DOgMj091MbEXuS8YzRTz6QNoGrWC-604nX7zMljuJ7NVx_fZBztyYFh0bAFruX8TC3lWYRWoOZnVZRF-rgpcmMHckEhUv5Sk4ZyCER76c0aWbs_-CT47hse9XRNSvrW2X71gAkytKI" width="300" height="500"><p><a href="https://www.youtube.com/watch?v=ndT35aqDfAQ">Wheel and axle video</a></p><p></p>';
   color()
 }
 function inclined(){
