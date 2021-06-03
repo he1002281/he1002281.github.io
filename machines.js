@@ -8,19 +8,19 @@ function pulley(){
   color()
 }
 function wheel(){
-  document.getElementById("home").innerHTML = '<h2>Wheel and axle</h2><p>A wheel is essentially a lever for rotational force with the wheel as the platform and the axle as the fulcrum.</p><p>Ideal mechanical advantage : (radius of wheel)/(radius of axle)</p><img src="https://lh3.googleusercontent.com/proxy/sKhZo52EpzKk6DOgMj091MbEXuS8YzRTz6QNoGrWC-604nX7zMljuJ7NVx_fZBztyYFh0bAFruX8TC3lWYRWoOZnVZRF-rgpcmMHckEhUv5Sk4ZyCER76c0aWbs_-CT47hse9XRNSvrW2X71gAkytKI" width="300" height="500"><p><a href="https://www.youtube.com/watch?v=ndT35aqDfAQ">Wheel and axle video</a></p><p></p>';
+  document.getElementById("home").innerHTML = '<h2>Wheel and axle</h2><p>A wheel is essentially a lever for rotational force with the wheel as the platform and the axle as the fulcrum.</p><p>Ideal mechanical advantage : (radius of wheel)/(radius of axle)</p><img src="https://lh3.googleusercontent.com/proxy/sKhZo52EpzKk6DOgMj091MbEXuS8YzRTz6QNoGrWC-604nX7zMljuJ7NVx_fZBztyYFh0bAFruX8TC3lWYRWoOZnVZRF-rgpcmMHckEhUv5Sk4ZyCER76c0aWbs_-CT47hse9XRNSvrW2X71gAkytKI" width="300" height="400"><p><a href="https://www.youtube.com/watch?v=ndT35aqDfAQ">Wheel and axle video</a></p><p></p>';
   color()
 }
 function inclined(){
-  document.getElementById("home").innerHTML = '<h2>Inclined plane</h2><p>An inclined plane is a right triangular prism, essentially a ramp.</p><p>Ideal mechanical advantage : (length of hypotenuse)/(length height)</p><img src="http://www2.phy.ilstu.edu/pte/489.01content/simple_machines/simplemachineimages/incline.gif" width=800px height=500px><p><a href="https://www.youtube.com/watch?v=igrMlzHL-qg">Inclined planes video</a></p><p></p>';
+  document.getElementById("home").innerHTML = '<h2>Inclined plane</h2><p>An inclined plane is a right triangular prism, essentially a ramp.</p><p>Ideal mechanical advantage : (length of hypotenuse)/(length height)</p><img src="https://lh3.googleusercontent.com/proxy/Pa1AUYruJ2726CauIdQI3eHjrZQLudkYZACMRUGdBvSxPnC4vGTSBY3qyxN6tuhZB_xglbMjHiC0QwU8L6Bf5gaic7KqdmdpFeQ94HtMZLeOsjoClPk4aSpx8J-WYPiu" width="400" height="300"><p><a href="https://www.youtube.com/watch?v=igrMlzHL-qg">Inclined planes video</a></p><p></p>';
   color()
 }
 function wedge(){
-  document.getElementById("home").innerHTML = '<h2>Wedge</h2><p>A wedge is similar to inclined plane but a isosceles triangular prism so it can be used to preform actions like splitting a log.</p><p>Ideal mechanical advantage : (length of long side(s))/(length of short side)</p><img src=http://www2.phy.ilstu.edu/pte/489.01content/simple_machines/simplemachineimages/wedge.gif width=800px height=500px><p><a href="https://www.youtube.com/watch?v=LAAwZird80k">Wedges video</a></p><p></p>';
+  document.getElementById("home").innerHTML = '<h2>Wedge</h2><p>A wedge is similar to inclined plane but a isosceles triangular prism so it can be used to preform actions like splitting a log.</p><p>Ideal mechanical advantage : (length of long side(s))/(length of short side)</p><img src=https://lh3.googleusercontent.com/proxy/g12rwGSlSlal5ZZDI3FNZOB56NYGoSBjHidF8j3imGVE6xlcbHwKAgHVNKXTHeTpEv7CYbR3jMZF-hPBAhkgFiygaCE4sXlJxim6NNtEYNcXWCj3woaEWG2iDnMXiA width="400" height="200"><p><a href="https://www.youtube.com/watch?v=LAAwZird80k">Wedges video</a></p><p></p>';
   color()
 }
 function screw(){
-  document.getElementById("home").innerHTML = '<h2>Screw</h2><p>A screw is a threaded rod with handle to which you apply effort and a point at the end.</p><p>Ideal mechanical advantage : (length of handle)*pi/(length movement per handle turn)</p><img src="http://www2.phy.ilstu.edu/pte/489.01content/simple_machines/simplemachineimages/screw.gif"width=800px height=500px><p><a href="https://www.youtube.com/watch?v=dDEhrpFb1BU">Screws video</a></p>';
+  document.getElementById("home").innerHTML = '<h2>Screw</h2><p>A screw is a threaded rod with handle to which you apply effort and a point at the end.</p><p>Ideal mechanical advantage : (length of handle)*pi/(length movement per handle turn)</p><img src="https://lh3.googleusercontent.com/proxy/rv3AJzut3V3yfHTGWm9-XsHgyQb8eXxm9IaHqj6Xbs0KQywtItSf9gjp1i4EIh37qtpd90ABRojV82zZANYV2H9svO0-6tMRhdGMHtnpVbUem3CFksTzrmf_rQsL-w" width="300" height="300"><p><a href="https://www.youtube.com/watch?v=dDEhrpFb1BU">Screws video</a></p>';
   color()
 }
 function home(){
