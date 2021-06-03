@@ -12,7 +12,7 @@ function wheel(){
   color()
 }
 function inclined(){
-  document.getElementById("home").innerHTML = '<h2>Inclined plane</h2><p>An inclined plane is a right triangular prism, essentially a ramp.</p><p>Ideal mechanical advantage : (length of hypotenuse)/(length height)</p><img src="https://lh3.googleusercontent.com/proxy/Pa1AUYruJ2726CauIdQI3eHjrZQLudkYZACMRUGdBvSxPnC4vGTSBY3qyxN6tuhZB_xglbMjHiC0QwU8L6Bf5gaic7KqdmdpFeQ94HtMZLeOsjoClPk4aSpx8J-WYPiu" width="400" height="300"><p><a href="https://www.youtube.com/watch?v=igrMlzHL-qg">Inclined planes video</a></p><p></p>';
+  document.getElementById("home").innerHTML = '<h2>Inclined plane</h2><p>An inclined plane is a right triangular prism, essentially a ramp.</p><p>Ideal mechanical advantage : (length of hypotenuse)/(length height)</p><img src="https://lh3.googleusercontent.com/proxy/xDtZGfBS8L1ZO6kBEHZHf-r10KkBaTFNjBoLjUQMRXPR8UA6X82QYzP_OLOeyRkPyCBziaLKVlhZU0eaAMs3Rj38yvrvq2r3I0-bkQtmKLzclHbLAnJJ2S_aNT4yWbtn" width="400" height="300"><p><a href="https://www.youtube.com/watch?v=igrMlzHL-qg">Inclined planes video</a></p><p></p>';
   color()
 }
 function wedge(){
