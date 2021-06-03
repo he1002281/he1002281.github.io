@@ -24,7 +24,7 @@ function screw(){
   color()
 }
 function home(){
-  document.getElementById("home").innerHTML = '<h2>Overview of Simple Machines</h2><p>A simple machine is a mechanical device that changes the direction or magnitude of a force. In general, they can be defined as the simplest mechanisms that use mechanical advantage (also called leverage) to multiply force. Usually the term refers to the six classical simple machines that were defined by Renaissance scientists: levers, pulleys, wheel and axle, inclined planes, wedges, and screws.</p><img src="http://automationprimer.com/wp-content/uploads/2013/10/SimpleMachines.jpg" width="800" height="526">';
+  document.getElementById("home").innerHTML = '<h2>Overview of Simple Machines</h2><p>A simple machine is a mechanical device that changes the direction or magnitude of a force. In general, they can be defined as the simplest mechanisms that use mechanical advantage (also called leverage) to multiply force. Usually the term refers to the six classical simple machines that were defined by Renaissance scientists: levers, pulleys, wheel and axle, inclined planes, wedges, and screws.</p><img src="http://automationprimer.com/wp-content/uploads/2013/10/SimpleMachines.jpg" width="200" height="526">';
   color()
 }
 function small(){
