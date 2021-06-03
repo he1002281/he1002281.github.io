@@ -1,6 +1,6 @@
 var scheme = -1;
 function lever(){
-  document.getElementById("home").innerHTML = '<h2>Levers</h2> <p> Levers are composed of a fulcrum and a rod/platform. </p> <p> There are 3 classes of levers: </p> <p>  - Class 1: fulcrum between load and effort</p><p>  - Class 2: load between fulcrum and effort </p> <p>  - Class 3: effort between fulcrum and load</p><img src="levers.gif" height=1500 width=1200 style="float:right;"><p>Ideal mechanical advantage of a lever = (distance between effort and fulcrum)/(distance between load and fulcrum) </p> <img src="http://www2.phy.ilstu.edu/pte/489.01content/simple_machines/simplemachineimages/lever2.gif" width=800px height=500px> <p><a href="https://www.youtube.com/watch?v=E8RA9Kw_IaE">Levers video</a><p><p></p>';
+  document.getElementById("home").innerHTML = '<h2>Levers</h2> <p> Levers are composed of a fulcrum and a rod/platform. </p> <p> There are 3 classes of levers: </p> <p>  - Class 1: fulcrum between load and effort</p><p>  - Class 2: load between fulcrum and effort </p> <p>  - Class 3: effort between fulcrum and load</p><img src="levers.gif" width="1200" height="1500" style="float:right;"><p>Ideal mechanical advantage of a lever = (distance between effort and fulcrum)/(distance between load and fulcrum) </p> <img src="http://www2.phy.ilstu.edu/pte/489.01content/simple_machines/simplemachineimages/lever2.gif" width=800px height=500px> <p><a href="https://www.youtube.com/watch?v=E8RA9Kw_IaE">Levers video</a><p><p></p>';
   color();
 }
 function pulley(){
