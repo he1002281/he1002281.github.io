@@ -1,8 +1,8 @@
 var scheme = -1;
-//function lever(){
-  //document.getElementById("home").innerHTML = '<h2>Levers</h2> <p> Levers are composed of a fulcrum and a rod/platform. </p> <p> There are 3 classes of levers: </p> <p>  - Class 1: fulcrum between load and effort</p><p>  - Class 2: load between fulcrum and effort </p> <p>  - Class 3: effort between fulcrum and load</p><img src="levers.jpeg" width="1200" height="1500" style="float:right;"><p>Ideal mechanical advantage of a lever = (distance between effort and fulcrum)/(distance between load and fulcrum) </p> <img src="http://www2.phy.ilstu.edu/pte/489.01content/simple_machines/simplemachineimages/lever2.gif" width=800px height=500px> <p><a href="https://www.youtube.com/watch?v=E8RA9Kw_IaE">Levers video</a><p><p></p>';
-  //color();
-//}
+function lever(){
+  document.getElementById("home").innerHTML = '<h2>Levers</h2> <p> Levers are composed of a fulcrum and a rod/platform. </p> <p> There are 3 classes of levers: </p> <p>  - Class 1: fulcrum between load and effort</p><p>  - Class 2: load between fulcrum and effort </p> <p>  - Class 3: effort between fulcrum and load</p><img src="levers.jpeg" width="1200" height="1500" style="float:right;"><p>Ideal mechanical advantage of a lever = (distance between effort and fulcrum)/(distance between load and fulcrum) </p> <img src="http://www2.phy.ilstu.edu/pte/489.01content/simple_machines/simplemachineimages/lever2.gif" width=800px height=500px> <p><a href="https://www.youtube.com/watch?v=E8RA9Kw_IaE">Levers video</a><p><p></p>';
+  color();
+}
 function pulley(){
   document.getElementById("home").innerHTML = '<h2>Pulleys</h2><p>A pulley is a wheel on an axle that supports changes in direction of a string or similar material.</p><p>Ideal mechanical advantage: equivalent to the number of strings supporting load</p><img src="http://www2.phy.ilstu.edu/pte/489.01content/simple_machines/simplemachineimages/pulley2.gif" width=800px height=500px><p><a href="https://www.youtube.com/watch?v=LiarGb_LK10">Pulleys video</a></p><p></p>';
   color()
@@ -24,7 +24,7 @@ function screw(){
   color()
 }
 function home(){
-  document.getElementById("home").innerHTML = '<h2>Overview of Simple Machines</h2><p>A simple machine is a mechanical device that changes the direction or magnitude of a force. In general, they can be defined as the simplest mechanisms that use mechanical advantage (also called leverage) to multiply force. Usually the term refers to the six classical simple machines that were defined by Renaissance scientists: levers, pulleys, wheel and axle, inclined planes, wedges, and screws.</p><img src="http://automationprimer.com/wp-content/uploads/2013/10/SimpleMachines.jpg" width="12" height="800">';
+  document.getElementById("home").innerHTML = '<h2>Overview of Simple Machines</h2><p>A simple machine is a mechanical device that changes the direction or magnitude of a force. In general, they can be defined as the simplest mechanisms that use mechanical advantage (also called leverage) to multiply force. Usually the term refers to the six classical simple machines that were defined by Renaissance scientists: levers, pulleys, wheel and axle, inclined planes, wedges, and screws.</p><img src="http://automationprimer.com/wp-content/uploads/2013/10/SimpleMachines.jpg" width="1200" height="789">';
   color()
 }
 function small(){
